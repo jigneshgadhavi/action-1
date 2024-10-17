@@ -12,6 +12,6 @@ jobs:
         
         - name: Executing Shell Script
           run: |
-            chmod +x ascii-script.yml
-            ./ascii-script.yml
+            chmod +x ascii-script.sh
+            ./ascii-script.sh
 
